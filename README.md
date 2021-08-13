@@ -34,9 +34,11 @@ This repository has some examples to understand the popular Computer Graphics Li
     + **OpenGL**
 
 + Download Example X.X and open a terminal `ctrl+t`:
+    ```
     $ cd path 
     $ mkdir build & cd build 
     $ cmake .. 
     $ make
+    ```
 
 <p style="border:3px solid Orange;" > Note: If you find any of these codes helpful, please share my <a href="https://github.com/LuisOrtizF">GitHub</a> to help other enthusiasts to find these tools. Remember, the knowledge must be shared. Otherwise, it is useless and lost in time.</p>

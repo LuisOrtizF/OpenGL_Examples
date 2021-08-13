@@ -3,7 +3,9 @@
 
 This repository has some examples to understand the popular Computer Graphics Library **OpenGL**.
 
+<div align="center">
 <img src="/Images/opengl_logo.png" width="200" height="100" alt="opengl" />
+</div>
 
 + **Example 1-2 : Plot a Square**
 + **Example 1-3 : Click Event**
@@ -40,5 +42,8 @@ This repository has some examples to understand the popular Computer Graphics Li
     $ cmake .. 
     $ make
     ```
-
-<p style="border:3px solid Orange;" > Note: If you find any of these codes helpful, please share my <a href="https://github.com/LuisOrtizF">GitHub</a> to help other enthusiasts to find these tools. Remember, the knowledge must be shared. Otherwise, it is useless and lost in time.</p>
+## Installation:
+<p style="background:black">
+<code style="background:black;color:red">If you find any of these codes helpful, please share my <a href="https://github.com/LuisOrtizF">GitHub</a> and STAR</code>:star:<code style="background:black;color:red">this repository to help other enthusiasts to find these tools. Remember, the knowledge must be shared. Otherwise, it is useless and lost in time.
+</code>
+</p>
